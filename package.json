@@ -18,6 +18,8 @@
     "url": "https://github.com/VladRaFeed/WebStudio/issues"
   },
   "dependencies": {
+    "joi": "^17.9.2",
+    "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
